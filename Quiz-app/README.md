@@ -1,12 +1,12 @@
 # Backend API for Quiz Application
 This project implements a backend API to handle quiz management and user answer submissions, created using Node.js, Express, and MongoDB.
 
-# Notable Features
+<h3>  Notable Features </h3>
 Retrieve all quizzes or access a specific quiz by its identifier.
 Submit user answers and obtain the calculated score.
 Handle errors gracefully for invalid submissions.
 
-# Technologies Employed
+<h3>  Technologies Employed </h3>
 Node.js, Express, MongoDB, Mongoose
 
 
